@@ -36,15 +36,15 @@ img {
 }
 h1{
   font-size: 48px;
-  font-weight: bold;
+  font-weight: "900";
 }
 h2{
   font-size: 32px;
-  font-weight: bold;
+  font-weight: "900";
 }
 h3{
   font-size: 24px;
-  font-weight: bold;
+  font-weight: "900";
 }
 
 body{
